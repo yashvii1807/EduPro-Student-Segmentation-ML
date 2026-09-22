@@ -1,0 +1,21 @@
+CourseID,CourseName,CourseCategory,CourseType,CourseLevel,CourseRating
+C001,Python Beginner,Python,Programming,Beginner,4.6
+C002,Python Intermediate,Python,Programming,Intermediate,4.0
+C003,Web Development Beginner,Web Development,Development,Beginner,4.2
+C004,Web Development Intermediate,Web Development,Development,Intermediate,4.2
+C005,Data Science Beginner,Data Science,AI,Beginner,4.7
+C006,Data Science Intermediate,Data Science,AI,Intermediate,4.6
+C007,Machine Learning Beginner,Machine Learning,AI,Beginner,4.8
+C008,Machine Learning Intermediate,Machine Learning,AI,Intermediate,4.1
+C009,Cloud Beginner,Cloud,Cloud,Beginner,4.4
+C010,Cloud Intermediate,Cloud,Cloud,Intermediate,4.0
+C011,UI/UX Beginner,UI/UX,Design,Beginner,4.2
+C012,UI/UX Intermediate,UI/UX,Design,Intermediate,4.5
+C013,Cyber Security Beginner,Cyber Security,Security,Beginner,4.0
+C014,Cyber Security Intermediate,Cyber Security,Security,Intermediate,4.2
+C015,Java Beginner,Java,Programming,Beginner,4.6
+C016,Java Intermediate,Java,Programming,Intermediate,4.5
+C017,Python Advanced,Python,Programming,Advanced,4.5
+C018,Web Development Advanced,Web Development,Development,Advanced,4.7
+C019,Data Science Advanced,Data Science,AI,Advanced,4.9
+C020,Machine Learning Advanced,Machine Learning,AI,Advanced,4.3
